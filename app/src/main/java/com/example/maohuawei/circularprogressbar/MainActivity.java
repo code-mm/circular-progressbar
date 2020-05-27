@@ -1,7 +1,7 @@
 package com.example.maohuawei.circularprogressbar;
 
 import android.app.Activity;
-import android.support.v7.app.AppCompatActivity;
+import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 
 import com.example.maohuawei.circularprogressbar.widget.CustomCircleProgressBar;
